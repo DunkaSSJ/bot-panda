@@ -16,7 +16,7 @@ client.on("ready", () => {
           type: "PLAYING"
       }
   } );
-client.login(process.env.NTc2NTI1NDcwODIxMjUzMTMw.XOLsdQ.wrf83d8Tou5I7EpSrJ3zT0p0eU4)
+client.login(process.env.token)
 });
 
 let prefix = config.prefix
